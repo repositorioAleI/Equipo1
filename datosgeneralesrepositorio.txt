@@ -1,0 +1,17 @@
+
+https://github.com/repositorioAleI/Equipo1.git
+
+echo "# Equipo1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+git remote add origin https://github.com/repositorioAleI/Equipo1.git
+git push -u origin master
+
+
+
+Actualizo
+git remote add origin https://github.com/repositorioAleI/Equipo1.git
+git branch -M master
+git push -u origin master
